@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## Screenshot
+
+![Material UI components screen](https://github.com/LDeng928/Material-UI-Sandbox/blob/main/public/docs/img/Screenshot.JPG?raw=true)
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
